@@ -50,7 +50,7 @@ Each module of the accelerator requires a different set of Azure services. Below
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/your-username/rfp-accelerator.git
+   git clone https://github.com/your-username/rfp_accelerator.git
    cd rfp-accelerator
    ```
 
